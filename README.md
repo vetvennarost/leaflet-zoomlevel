@@ -1,7 +1,7 @@
 Leaflet.ZoomLabel
 ====
 
-Leaflet.ZoomLabel is a simple zoom level control that you can drop into your leaflet map.
+Simple zoom level control by [unbam](https://github.com/unbam) that you can drop into your leaflet map.
 It displays zoom level of the map.
 
 ## Usage
