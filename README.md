@@ -1,4 +1,4 @@
-Leaflet.ZoomLabel
+leaflet.zoomlevel
 ====
 
 Simple zoom level control by [unbam](https://github.com/unbam) that you can drop into your leaflet map.
